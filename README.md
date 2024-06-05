@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michellecordovi
 - 👀 I’m a Front-End Web Developer
-- 🌱 HTML & CSS
+- 🌱 HTML/CSS/JavaScript
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love painting and chess.
 
