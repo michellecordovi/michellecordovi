@@ -20,7 +20,8 @@ I am a Freelance Frontend Web Developer and a Doctor of Physical Therapy working
 - Chess
 - Sudoku
 - Playing with my dogs
-- The world of Game of Thrones
+- Hiking 
+- Climbing 
 
   <!--
 
