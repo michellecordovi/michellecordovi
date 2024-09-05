@@ -9,6 +9,7 @@ I am a Freelance Frontend Web Developer and a Doctor of Physical Therapy working
 - HTML5
 - CSS3
 - JavaScript
+- React
 - Git
 - GitHub
 - Canva
