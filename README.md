@@ -2,12 +2,15 @@
 
 # 👋 Hi, I'm Michelle! (she/her)
 
-I am a Freelance Frontend Web Developer and a Doctor of Physical Therapy working towards a career in full-time, full-stack web development. 
+I am a freelance Frontend Web Developer and Designer and a Doctor of Physical Therapy working towards a career in full-time, full-stack web development. 
 
-# 🌱 My skills include...
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,npm,vite,git,github,vscode)](https://skillicons.dev)
+## 👩🏻‍💻 My skills include...
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,npm,vite,git,github,figma,vscode)](https://skillicons.dev)
 
-# 😄 I enjoy...
+## 🌱 I'm currently learning...
+[![My Skills](https://skillicons.dev/icons?i=express,postgres)](https://skillicons.dev)
+
+## 😄 I enjoy...
 
 - Watercoloring
 - Chess
