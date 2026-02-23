@@ -2,14 +2,24 @@
 
 # 👋 Hi, I'm Michelle! (she/her)
 
-I am a freelance Frontend Web Developer and Designer and a Doctor of Physical Therapy working towards a career in full-time, full-stack web development. 
-<br><br>
-<br><br>
+💡 I am a freelance frontend web developer and designer. I currently run <a href="marigoldwebstudio.com">Marigold Web Studio</a>, a small business that specializes in Frontend Web Development and Squarespace Web Design services to service-based small businesses. I'm currently seeking to transition into full-time, full-stack software engineering. 
+<br>
+
+💻 As a business owner and a former healthcare worker, I have years of experience working directly with clients, managing small-scale web development projects, and problem solving in fast-paced environments.
+<br>
+
+🧠 I've got a passion for learning and growth
+<br>
+
+✨ In my free time, I love: Running, hiking, rock climbing, watercoloring, chess, sudoku, and playing with my dogs
+<br>
+
+📩 You can contact me directly at <a href="mailto:michellecordovi@gmail.com">michellecordovi@gmail.com</>
+
+<br>
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=michellecordovi&date_format=M%20j%5B%2C%20Y%5D&stroke=F6F1ED&background=B60A6A&currStreakNum=F6F1ED&sideLabels=F6F1ED&dates=F6F1ED&sideNums=F6F1ED" alt="GitHub Streak" /></a>
 </p>
-<br><br>
-
 
 ## 👩🏻‍💻 My skills include...
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,npm,vite,git,github,figma,vscode)](https://skillicons.dev)
@@ -17,14 +27,6 @@ I am a freelance Frontend Web Developer and Designer and a Doctor of Physical Th
 ## 🌱 I'm currently learning...
 [![My Skills](https://skillicons.dev/icons?i=express,postgres)](https://skillicons.dev)
 
-## 😄 I enjoy...
-
-- Watercoloring
-- Chess
-- Sudoku
-- Playing with my dogs
-- Hiking 
-- Climbing
 
   <!--
 
