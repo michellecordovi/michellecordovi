@@ -5,15 +5,7 @@
 I am a Freelance Frontend Web Developer and a Doctor of Physical Therapy working towards a career in full-time, full-stack web development. 
 
 # 🌱 My skills include...
-
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Git
-- GitHub
-- Canva
-- Wordpress & Squarespace
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,npm,vite,git,github,vscode)](https://skillicons.dev)
 
 # 😄 I enjoy...
 
