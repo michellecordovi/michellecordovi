@@ -14,7 +14,7 @@
 ✨ In my free time, I love: Running, hiking, rock climbing, watercoloring, chess, sudoku, and playing with my dogs
 <br>
 
-📩 You can contact me directly at <a href="mailto:michellecordovi@gmail.com">michellecordovi@gmail.com</>
+📩 You can contact me directly at <a href="mailto:michellecordovi@gmail.com">michellecordovi@gmail.com</a>
 
 <br>
 <p align="center">
