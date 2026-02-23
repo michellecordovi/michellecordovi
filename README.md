@@ -1,4 +1,4 @@
-![Michelle Cordovi (1)](https://github.com/michellecordovi/michellecordovi/assets/165519977/8d02e80d-053d-4b95-a2eb-6ee4164de266)
+![github banner (2)](https://github.com/user-attachments/assets/48b8f036-568d-4273-b39a-dc103467e9a4)
 
 # 👋 Hi, I'm Michelle! (she/her)
 
