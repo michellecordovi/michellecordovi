@@ -34,8 +34,9 @@
 
 |Site | Description|
 |------|------------|
-| <a href="marigoldwebstudio.com">Marigold Web Studio</a> | This is my business' website. I designed it myself and developed it using HTML, CSS, JS, React, and Vite. The React component style was particularly important to developing my portfolio and my blog. |
-| <a href="https://michellecordovi.github.io/CalculatorApp/"> Calculator App</a> | This calculator app was fun project was developed using HTML, CSS, and vanilla JS which was a challenge but also a great learning experience. |
+| <a href="marigoldwebstudio.com">Marigold Web Studio</a> | This is my business' website. I designed it myself and developed it using HTML, CSS, JavaScript, React, and Vite. The React component style was particularly important to developing my portfolio and my blog. |
+|<a href='https://leaf-link.mintelligentdesign.com/'>Leaf Link</a> | Leaf Link in a program designed to monitor moisture and automate watering of house plantes with their loT solution. I colaborated with the programmer of to generate a responsive website that provides documentation for the app. This site was developed with HTML, CSS, and JavaScript.  |
+| <a href="https://michellecordovi.github.io/CalculatorApp/"> Calculator App</a> | This calculator app was fun project was developed using HTML, CSS, and vanilla JavaScript which was a challenge but also a great learning experience. |
 |<a href="https://meandtheplanets.netlify.app/Earth/overview">Planets Info Page</a> | This website gives an overview of each planet and was a great project to practice React and utilize React Router! |
 
 <!--
